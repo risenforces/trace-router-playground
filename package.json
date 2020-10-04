@@ -1,0 +1,21 @@
+{
+  "name": "trace-router-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "effector": "^21.3.0",
+    "effector-react": "^21.0.6",
+    "effector-root": "^1.1.0",
+    "history": "^5.0.0",
+    "react": "^16.13.1",
+    "trace-router": "0.10.0",
+    "trace-router-react": "^0.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
